@@ -1,3 +1,4 @@
+arrow
 beautifulsoup4
 bokeh
 category-encoders
@@ -35,6 +36,7 @@ pandas
 pandas-profiling
 pillow
 plotly
+prophet
 pycaret
 pykrige
 pymongo[srv]
