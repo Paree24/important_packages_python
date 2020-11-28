@@ -8,7 +8,6 @@ fastai
 flask
 flask-cors
 geopandas
-glob
 gradio
 gunicorn
 h5py
