@@ -11,7 +11,6 @@ geopandas
 gradio
 gunicorn
 h5py
-hdf5
 hyperopt
 ipykernel
 ipython
