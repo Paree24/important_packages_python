@@ -38,7 +38,7 @@ pycaret
 pykrige
 pymongo[srv]
 pymysql
-pyqt
+pyqt5
 pytorch
 requests
 scikit-image
