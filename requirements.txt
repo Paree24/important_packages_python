@@ -23,11 +23,9 @@ nbclient
 nbconvert
 netCDF4
 nltk
-numpy
 opencv-python
 orange3
 pandas
-pandas-profiling
 plotly
 prophet
 pycaret
@@ -41,7 +39,6 @@ seaborn
 selenium
 selenium
 setuptools
-spyder
 sqlalchemy
 statsmodels
 streamlit
