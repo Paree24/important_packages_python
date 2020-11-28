@@ -3,6 +3,7 @@ bokeh
 category-encoders
 curl
 dash
+fastai
 flask
 flask-cors
 geopandas
@@ -11,6 +12,7 @@ gradio
 gunicorn
 h5py
 hdf5
+hyperopt
 ipykernel
 ipython
 ipython_genutils
@@ -28,11 +30,13 @@ netCDF4
 nltk
 numpy
 opencv
+orange3
 pandas
 pandas-profiling
 pillow
 plotly
 pycaret
+pykrige
 pymongo[srv]
 pymysql
 pyqt
