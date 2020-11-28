@@ -4,7 +4,6 @@ bokeh
 category-encoders
 curl
 dash
-fastai
 flask
 flask-cors
 geopandas
@@ -38,8 +37,6 @@ pycaret
 pykrige
 pymongo[srv]
 pymysql
-pyqt5
-pytorch
 requests
 scikit-image
 scipy
