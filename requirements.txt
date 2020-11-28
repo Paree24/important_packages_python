@@ -43,7 +43,7 @@ pytorch
 requests
 scikit-image
 scipy
-sckit-learn
+scikit-learn
 seaborn
 selenium
 selenium
