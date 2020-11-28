@@ -50,7 +50,6 @@ selenium
 setuptools
 spyder
 sqlalchemy
-sqlalchemy
 statsmodels
 streamlit
 tensorflow
