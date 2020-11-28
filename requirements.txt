@@ -7,9 +7,7 @@ dash
 flask
 flask-cors
 geopandas
-gradio
 gunicorn
-h5py
 hyperopt
 ipykernel
 ipython
@@ -30,14 +28,12 @@ opencv-python
 orange3
 pandas
 pandas-profiling
-pillow
 plotly
 prophet
 pycaret
 pykrige
 pymongo[srv]
 pymysql
-requests
 scikit-image
 scipy
 scikit-learn
