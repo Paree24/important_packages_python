@@ -27,7 +27,7 @@ nbconvert
 netCDF4
 nltk
 numpy
-opencv
+opencv-python
 orange3
 pandas
 pandas-profiling
