@@ -4,6 +4,7 @@ bokeh
 category-encoders
 curl
 dash
+descartes
 flask
 flask-cors
 geopandas
