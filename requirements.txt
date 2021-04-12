@@ -1,10 +1,13 @@
+aiohttp
 arrow
+bcrypt
 beautifulsoup4
 bokeh
 category-encoders
 curl
 dash
 descartes
+fastapi
 flask
 flask-cors
 geopandas
@@ -27,9 +30,11 @@ nltk
 opencv-python
 orange3
 pandas
+pillow
 plotly
 prophet
 pycaret
+pyinstaller
 pykrige
 pymongo[srv]
 pymysql
@@ -40,6 +45,7 @@ seaborn
 selenium
 selenium
 setuptools
+shapeash
 sqlalchemy
 statsmodels
 streamlit
