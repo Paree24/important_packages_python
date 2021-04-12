@@ -21,12 +21,15 @@ jinja2
 joblib
 json5
 jupyter
+jupyter_contrib_nbextensions
 jupyterlab_server
+jupyterlab
 matplotlib
 nbclient
 nbconvert
 netCDF4
 nltk
+notebook
 opencv-python
 orange3
 pandas
