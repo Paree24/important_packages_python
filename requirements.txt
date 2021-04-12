@@ -45,7 +45,7 @@ seaborn
 selenium
 selenium
 setuptools
-shapeash
+shapash
 sqlalchemy
 statsmodels
 streamlit
