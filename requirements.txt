@@ -33,6 +33,7 @@ nltk
 notebook
 opencv-python
 orange3
+palettable
 pandas
 pillow
 plotly
