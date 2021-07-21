@@ -1,6 +1,7 @@
 aiohttp
 arrow
 autopep8
+autoviz
 bcrypt
 beautifulsoup4
 bokeh
@@ -26,6 +27,7 @@ jupyter_contrib_nbextensions
 jupyterlab_server
 jupyterlab
 matplotlib
+mitoinstaller
 nbclient
 nbconvert
 netCDF4
@@ -47,7 +49,6 @@ scikit-image
 scipy
 scikit-learn
 seaborn
-selenium
 selenium
 setuptools
 shapash
