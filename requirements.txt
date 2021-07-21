@@ -27,7 +27,6 @@ jupyter_contrib_nbextensions
 jupyterlab_server
 jupyterlab
 matplotlib
-mitoinstaller
 nbclient
 nbconvert
 netCDF4
