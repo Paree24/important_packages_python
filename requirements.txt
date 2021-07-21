@@ -7,6 +7,7 @@ beautifulsoup4
 bokeh
 category-encoders
 curl
+dabl
 dash
 descartes
 fastapi
@@ -26,6 +27,7 @@ jupyter
 jupyter_contrib_nbextensions
 jupyterlab_server
 jupyterlab
+lux-api
 matplotlib
 nbclient
 nbconvert
@@ -54,6 +56,7 @@ shapash
 sqlalchemy
 statsmodels
 streamlit
+sweetviz
 tensorflow
 urllib3
 werkzeug
