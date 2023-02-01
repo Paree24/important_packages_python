@@ -39,6 +39,7 @@ pycaret
 pykrige
 pymongo[srv]
 pymysql
+requests
 scikit-image
 scipy
 scikit-learn
@@ -52,6 +53,7 @@ statsmodels
 streamlit
 tensorflow
 urllib3
+virtualenv
 werkzeug
 wheel
 xarray
