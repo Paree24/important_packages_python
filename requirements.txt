@@ -44,6 +44,7 @@ scikit-image
 scipy
 scikit-learn
 scikit-time
+sktime
 seaborn
 selenium
 setuptools
