@@ -40,6 +40,7 @@ pykrige
 pymongo[srv]
 pymysql
 requests
+rasterio
 scikit-image
 scipy
 scikit-learn
