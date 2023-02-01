@@ -7,6 +7,7 @@ bokeh
 boto3
 category-encoders
 dash
+dask
 descartes
 fastapi
 flask
@@ -28,6 +29,7 @@ jupyterlab_server
 jupyterlab
 mapclassify
 matplotlib
+nbblack
 nbclient
 nbconvert
 netCDF4
