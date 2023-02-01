@@ -10,6 +10,7 @@ fastapi
 flask
 flask-cors
 geopandas
+geopy
 gunicorn
 hyperopt
 ipykernel
@@ -44,7 +45,8 @@ scikit-learn
 seaborn
 selenium
 setuptools
-shapash
+shap
+shapely
 sqlalchemy
 statsmodels
 streamlit
