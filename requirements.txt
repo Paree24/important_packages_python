@@ -12,6 +12,7 @@ descartes
 fastapi
 flask
 flask-cors
+folium
 fp
 geopandas
 geopy
