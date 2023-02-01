@@ -43,6 +43,7 @@ requests
 scikit-image
 scipy
 scikit-learn
+scikit-time
 seaborn
 selenium
 setuptools
