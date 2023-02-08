@@ -4,6 +4,7 @@ astor
 autopep8
 backports.functools-lru-cache
 base58
+basemap
 boto3
 brotlipy
 cached-property
